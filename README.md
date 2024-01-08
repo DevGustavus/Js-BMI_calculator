@@ -1,5 +1,8 @@
 <h1 align="center">Js-BMI_calculator:</h1>
 
+## 📲 View the project here
+<a href="https://devgustavus.github.io/Js-BMI_calculator/">https://devgustavus.github.io/Js-BMI_calculator/</a>
+
 ## 📖 About the project
 In this project, I created a web-based BMI calculator. I implemented a straightforward form with a focus on UI/UX, responsiveness, and various validations. Additionally, I incorporated numerous conditional statements using if and else to analyze the user's input information for BMI. Depending on the input, distinct pop-ups are displayed, providing a tailored user experience.
 
